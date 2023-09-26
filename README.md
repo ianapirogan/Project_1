@@ -31,6 +31,9 @@ Conversely, among the bottom 50 listings, only 23 of them are found within the s
 
 Overall, the data underscores the strong correlation between proximity to central London and Airbnb pricing, with listings closer to the center generally commanding higher rates. This insight can be invaluable for both hosts and travelers seeking to understand the pricing dynamics within London's Airbnb market.
 
+---
+### Factor 1.5: Location : How is the neighborhoods of the property affecting the Airbnb prices in London?
+
 ![Alt text](https://github.com/ianapirogan/Project_1/blob/main/Output/neighborhood_stats.png)
 
 The insights derived from the bar chart portraying the average price of Airbnb listings across various neighborhoods are striking. The data unequivocally reveals that Kensington and Chelsea stand out with the highest average listing prices, while Croydon emerges as the neighborhood offering the most budget-friendly options. This stark contrast in pricing among neighborhoods underscores the profound influence of location on determining the average price of Airbnb accommodations in London.
