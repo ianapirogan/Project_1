@@ -11,19 +11,19 @@ By Natalie, Zayan, Iana
 
 ### Factor 1: Location : How is the location of the property affecting the Airbnb prices in London?
 
-![Alt text](Airbnbs.png)
+![Alt text](https://github.com/ianapirogan/Project_1/blob/main/Output/Airbnbs.png)
 
 The map visually illustrates that as one moves further away from the central point, the density of Airbnb listings gradually decreases. This observation indicates a higher concentration of Airbnb listings in the central areas of the city. In other words, the central regions exhibit a more significant presence of Airbnb accommodations, while the number of listings diminishes as we venture towards the city's outskirts. This spatial distribution highlights the popularity and demand for Airbnb rentals in the city's central zones, possibly due to proximity to attractions, amenities, or transportation hubs.
 
-![Alt text](Top50.png)
+![Alt text](https://github.com/ianapirogan/Project_1/blob/main/Output/Top50.png)
 
 From this data we can see that these a stong pull to the center of the london
 
-![Alt text](Bottom50.png)
+![Alt text](https://github.com/ianapirogan/Project_1/blob/main/Output/Bottom50.png)
 
-From this data we can see the points being more disperced 
+From this dataset, it becomes evident that the data points are more widely scattered.
 
-![Alt text](<Top 50 vs Bottom 50 less then 10 km airbnbs.png>)
+![Alt text](https://github.com/ianapirogan/Project_1/blob/main/Output/Top%2050%20vs%20Bottom%2050%20less%20then%2010%20km%20airbnbs.png)
 
 The impact of location on Airbnb prices in London is strikingly evident in our analysis. Out of the top 50 Airbnb listings, an overwhelming 46 of them are located within a 10-kilometer radius from the central point of London. This concentration of high-priced listings near the city center suggests that proximity to central attractions, amenities, and transportation hubs significantly influences pricing in the upper tier.
 
