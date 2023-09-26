@@ -9,6 +9,11 @@ By Natalie, Zayan, Iana
 
 ---
 
+### The data set
+https://www.kaggle.com/datasets/whenamancodes/london-uk-airbnb-open-data
+
+---
+
 ### Factor 1: Location : How is the location of the property affecting the Airbnb prices in London?
 
 ![Alt text](https://github.com/ianapirogan/Project_1/blob/main/Output/Airbnbs.png)
