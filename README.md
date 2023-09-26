@@ -89,3 +89,10 @@ Ultimately, this project's purpose was to empower both hosts and travelers by pr
 
 As the project comes to a close, it is evident that the Airbnb experience in London is intricately intertwined with the city's diverse landscape and the choices made by both hosts and guests. By leveraging the insights gained from this analysis, stakeholders can enhance their Airbnb journey, whether they are hosts seeking optimal pricing strategies or travelers in search of their ideal London stay.
 
+---
+
+## Future work
+
+Looking ahead, future research could explore factors such as property amenities, seasonal pricing trends, and geospatial analysis to gain a more comprehensive understanding of Airbnb pricing dynamics. Additionally, machine learning models could offer predictive insights for hosts, and host behavior analysis and guest demographics could tailor recommendations to target audiences. Understanding the impact of regulatory changes on Airbnb pricing is also a crucial area for exploration.
+
+As the short-term rental market continues to evolve, ongoing research will play a vital role in adapting to emerging trends and optimizing the Airbnb experience for hosts, guests, and policymakers alike.
