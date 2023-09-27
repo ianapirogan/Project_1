@@ -72,7 +72,7 @@ In summary, the scatter plot and regression line for average price vs. the numbe
 
 ---
 
-### Factor 4: Availability: Reviews : Is there any correlation between the availability of the property and Airbnb prices?
+### Factor 4: Availability: Is there any correlation between the availability of the property and Airbnb prices?
 
 ![Alt text](https://github.com/ianapirogan/Project_1/blob/main/Output/Price%20vs.%20Availability%20with%20Linear%20Regression%20Line.png)
 
